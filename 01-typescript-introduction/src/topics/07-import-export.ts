@@ -1,4 +1,4 @@
-import { type Product, taxCalculation } from './06-function-destructuring';
+import { Product, taxCalculation } from './06-function-destructuring';
 
 const shoppingCart: Product[] = [{
     description: 'Nokia A1',
