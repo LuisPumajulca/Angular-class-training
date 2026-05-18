@@ -1,7 +1,4 @@
 
-
-
-
 export class Person {
     // public name: string;
     // private address: string;
